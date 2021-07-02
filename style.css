@@ -1,0 +1,19 @@
+header{
+	background-color:grey;
+	text-align:center;
+	height:100px;
+}
+body{
+	background:url(1620654850_21-phonoteka_org-p-belii-kachestvennii-fon-25.jpg);
+}
+.text{
+	color: white
+}
+.button{
+	background: black;
+	color:white;
+	font-size: 20px;
+	padding:20px;
+	border:2px solid grey;
+	border-radius: 2px;
+}
